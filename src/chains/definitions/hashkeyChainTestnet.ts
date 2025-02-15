@@ -21,4 +21,3 @@ export const hashkeyTestnet = /*#__PURE__*/ defineChain({
   },
   testnet: true,
 })
-  
