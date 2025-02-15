@@ -19,4 +19,6 @@ export const hashkeyTestnet = /*#__PURE__*/ defineChain({
       url: 'https://hashkeychain-testnet-explorer.alt.technology',
     },
   },
+  testnet: true,
 })
+  
